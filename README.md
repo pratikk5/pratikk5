@@ -8,7 +8,7 @@ Studying @Government college of Engineering Dharmapuri
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/contact-pratik-k/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/contact-pratik-k/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Coding.
   
