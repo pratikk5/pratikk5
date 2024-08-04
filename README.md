@@ -10,7 +10,7 @@ Studying @Government college of Engineering Dharmapuri
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/contact-pratik-k/)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+- ⚡ Fun fact: I know Coding.
   
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
@@ -20,4 +20,5 @@ Studying @Government college of Engineering Dharmapuri
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
 ### 💻 Workspace Spec
-https://img.shields.io/badge/Intel-i5-blue
+<img height="50" width="150" alt="Static Badge" src="https://img.shields.io/badge/Intel_-i5-red?logoSize=50">
+
