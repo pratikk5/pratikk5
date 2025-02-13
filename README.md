@@ -28,8 +28,8 @@ Studying @Government college of Engineering Dharmapuri
 ### 💻 Workspace Spec
 <img height="50" width="150" alt="Static Badge" src="https://img.shields.io/badge/Intel_-i5-red?logoSize=50">
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikk5&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/pratik55?theme=dark&font=Marcellus&ext=activity))](https://leetcode.com/pratik55)
 
-[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikk5&bg_color=131012&color=f3f1f3&line=25d066&point=f1e9e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
