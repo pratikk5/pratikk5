@@ -29,4 +29,4 @@ Studying @Government college of Engineering Dharmapuri
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/pratikk5?theme=dark&font=Noto%20Sans%20Thaana&ext=activity)](https://leetcode.com/pratikk5/)
 
-[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikk5&bg_color=131012&color=f3f1f3&line=25d066&point=f1e9e9&area=true&hide_border=true)](https://github.com/pratikk5/github-readme-activity-graph)
+[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikk5&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
