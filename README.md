@@ -3,9 +3,9 @@
 Studying @Government college of Engineering Dharmapuri
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 Here's my [portfolio](https://pratik6135.web.app/)
-- 👯 I’m looking to collaborate with people  
-- 🤔 I’m looking for help with algorithm practice and behavioral interviews for FAANG placements  
-- 💬 Ask me about Tech, Web Development, or anything related to Full Stack
+- 👯 I’m looking to collaborate with developers and designers on impactful full-stack projects.
+- 🤔 I’m seeking guidance and practice for algorithms and behavioral interviews, especially for FAANG placements.
+- 💬 Ask me about anything Tech — from Full Stack Development and scalable web apps to clean UI/UX and API integration.
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/contact-pratik-k/)
 - 😄 Pronouns: Techie
