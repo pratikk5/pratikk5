@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Pratik
 
 Studying @Government college of Engineering Dharmapuri
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 Here's my [portfolio](https://pratik6135.web.app/)
 - 👯 I’m looking to collaborate with people  
 - 🤔 I’m looking for help with algorithm practice and behavioral interviews for FAANG placements  
