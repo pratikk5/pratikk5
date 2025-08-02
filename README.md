@@ -23,7 +23,8 @@ Studying @Government college of Engineering Dharmapuri
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 
 ### 💻 Workspace Spec
-<img height="50" width="150" alt="Static Badge" src="https://img.shields.io/badge/Intel_-i5-red?logoSize=50">
+<img height="50" width="150" alt="Static Badge" src="https://img.shields.io/badge/Intel_-i5-red?logoSize=50">  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows 10"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux Mint"/>
+
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikk5&theme=dark&show_icons=true&&hide=issues,contribs)
 
