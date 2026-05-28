@@ -7,7 +7,7 @@ Studying @Government college of Engineering Dharmapuri
 - 🤔 I’m seeking guidance and practice for algorithms and behavioral interviews, especially for FAANG placements.
 - 💬 Ask me about anything Tech — from Full Stack Development and scalable web apps to clean UI/UX and API integration.
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/contact-pratik-k/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/contact-pratik/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Coding.
 - Social Presence
