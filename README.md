@@ -7,11 +7,11 @@ Studying @Government college of Engineering Dharmapuri
 - 🤔 I’m seeking guidance and practice for algorithms and behavioral interviews, especially for FAANG placements.
 - 💬 Ask me about anything Tech — from Full Stack Development and scalable web apps to clean UI/UX and API integration.
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/contact-pratik/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratikk-dev/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Coding.
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/PRATIKK1439743) <br />
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/pratikpatildev) <br />
 - [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIzpHXmcAu-aXtKc8PHthJQ)](https://www.youtube.com/channel/UCIzpHXmcAu-aXtKc8PHthJQ)
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIzpHXmcAu-aXtKc8PHthJQ)](https://www.youtube.com/channel/UCIzpHXmcAu-aXtKc8PHthJQ)
  
